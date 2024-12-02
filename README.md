@@ -1,6 +1,6 @@
 # Honogari: A penetration testing tool designed to identify and exploit misconfigured or publicly accessible Firebase databases vulnerable to unauthorized access or data manipulation
 
-[GIF](https://github.com/kUrOSH1R0oo/Honogari/blob/main/angel.gif)
+![GIF](https://github.com/kUrOSH1R0oo/Honogari/blob/main/angel.gif)
 
 Honogari is a powerful and specialized penetration testing tool developed to identify, assess, and exploit vulnerabilities in misconfigured or publicly accessible Firebase databases. Firebase, being a widely used backend service for mobile and web applications, often holds sensitive data, making it an attractive target for attackers.
 
